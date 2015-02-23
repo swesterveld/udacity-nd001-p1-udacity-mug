@@ -1,0 +1,12 @@
+These are the references I've used for the project.
+
+For HTML/CSS validation:
+* http://validator.w3.org/check
+* http://jigsaw.w3.org/css-validator/
+
+Udacity Frontend Nanodegree HTML/CSS Style Guides:
+* http://udacity.github.io/frontend-nanodegree-styleguide/index.html
+* http://udacity.github.io/frontend-nanodegree-styleguide/css.html
+
+For CSS shorthand properties:
+* https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
