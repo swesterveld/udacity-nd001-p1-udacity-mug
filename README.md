@@ -14,7 +14,7 @@ This code is based on the [mockup](https://github.com/swesterveld/udacity-nd001-
 
 In the HTML, add this code at the end of the body:
 ```html
-    <!-- a diff with an ovjust erlay of the mockup, as a reference for the result we want -->
+    <!-- a diff with an overlay of the mockup, as a reference for the result we want -->
     <div class="mockup-overlay">
       <img src="images/page-mock.png" alt="mock">
     </div>
